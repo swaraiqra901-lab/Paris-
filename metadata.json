@@ -1,0 +1,6 @@
+{
+  "name": "Paris Nails",
+  "description": "Paris Nails is a premier nail salon in Moses Lake, WA offering professional manicures, pedicures, gel polish, acrylics, and custom nail art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
